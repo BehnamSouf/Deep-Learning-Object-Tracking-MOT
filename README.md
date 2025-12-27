@@ -91,5 +91,5 @@ If you find our work useful, please kindly cite our paper, thank you.
 The code is based on [ByteTrack](https://github.com/ifzhang/ByteTrack), [Torchreid](https://github.com/KaiyangZhou/deep-person-reid) and [BoT-SORT](https://github.com/NirAharon/BoT-SORT), thanks for their wonderful work!
 
 ## Contact
-Hsiang-Wei Huang (hwhuang@uw.edu)<img width="498" height="794" alt="image" src="https://github.com/user-attachments/assets/e46d614f-c52a-4aa8-b3db-b589f884c4fd" />
+<img width="498" height="794" alt="image" src="https://github.com/user-attachments/assets/e46d614f-c52a-4aa8-b3db-b589f884c4fd" />
 
